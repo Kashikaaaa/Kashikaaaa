@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=230&section=header&text=Hello%20World,%20I'm%20Kashika&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
@@ -62,23 +62,23 @@ I'm an aspiring software engineer from India, currently focused on building stro
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align="center">
-  <img src="./assets/quote-banner.svg" alt="Algorithms are poetry you teach machines to recite." width="100%"/>
+  <img src="./assets/quote-banner.svg" alt="Algorithms are poetry you teach machines to recite." width="65%"/>
 </div>
 
 ## GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kashikaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashikaaaa&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kashikaaaa&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashikaaaa&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
+</div> -->
 
 
 
@@ -88,19 +88,9 @@ I'm an aspiring software engineer from India, currently focused on building stro
   <img src="https://leetcard.jacoblin.cool/Kashikaaaaa?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
 </div>
 
-
-
-
----
-
 <div align="center">
 
-<img src="./assets/astronaut.svg" width="220"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:a21caf&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=d1d5db&fontAlignY=75&animation=fadeIn" width="100%"/>
 
-**Thanks for visiting!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kashikaaaa&label=Profile%20Views&color=6A0DAD&style=flat)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
 
 </div>
