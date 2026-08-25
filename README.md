@@ -1,9 +1,106 @@
-# 💫 About Me:
-Hi, I'm Kashika👋    <br>2nd-year CSE (AI & ML) undergraduate with interest in programming and core computer science concepts. Actively<br>building skills through academic learning, certifications, and self-learning projects.<br><br>💻 Skills:  C++, Python, Numpy, Pandas, Matplotlib ,DSA  <br>🌱 Currently learning: Machine Learning<br>🚀 Working on: Improving problem-solving and building projects  <br>📫 Connect with me: www.linkedin.com/in/kashika-khurana
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=230&section=header&text=Hello%20World,%20I'm%20Kashika&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+<!-- Replace the LinkedIn and Codeforces hrefs below with your real profile URLs -->
+<p>
+  <a href="mailto:kashika.108a@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kashika-khurana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Kashikaaa">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Kashikaaaaa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+</div>
+
+## About
+
+I'm an aspiring software engineer from India, currently focused on building strong fundamentals across systems, machine learning, and competitive programming. I enjoy peeling back the abstraction layers to see what's really going on.
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Python & Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
+
+**Data & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<div align="center">
+  <img src="./assets/quote-banner.svg" alt="Algorithms are poetry you teach machines to recite." width="100%"/>
+</div>
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashikaaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashikaaaa&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kashikaaaa&theme=tokyonight&hide_border=true" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashikaaaa&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kashika-khurana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashika.108a@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Competitive Programming & Problem Solving
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Kashikaaaaa?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
+</div>
+
+
+
+
+---
+
+<div align="center">
+
+<img src="./assets/astronaut.svg" width="220"/>
+
+**Thanks for visiting!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kashikaaaa&label=Profile%20Views&color=6A0DAD&style=flat)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%"/>
+
+</div>
